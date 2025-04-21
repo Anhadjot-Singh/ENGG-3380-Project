@@ -1,0 +1,20 @@
+0.6
+2016.3
+Oct 10 2016
+19:46:48
+C:/Users/asehra/Group14_FinalProject_Part1/Group14_FinalProject_Part1.srcs/sources_1/imports/Downloads/ALU4.vhd,1743735663,vhdl,,,,alu,,,,,,,,
+C:/Users/asehra/Group14_FinalProject_Part1/Group14_FinalProject_Part1.srcs/sources_1/imports/Downloads/ALU_16Bit3.vhd,1743735663,vhdl,,,,alu_16bit,,,,,,,,
+C:/Users/asehra/Group14_FinalProject_Part1/Group14_FinalProject_Part1.srcs/sources_1/imports/Downloads/CPU_33802.vhd,1743736880,vhdl2008,C:/Users/asehra/Group14_FinalProject_Part1/Group14_FinalProject_Part1.srcs/sources_1/imports/Downloads/CPU_3380_Test11.vhd,,,cpu_3380,,,,,,,,
+C:/Users/asehra/Group14_FinalProject_Part1/Group14_FinalProject_Part1.srcs/sources_1/imports/Downloads/CPU_3380_Test11.vhd,1743735663,vhdl2008,,,,cpu_3380_test,,,,,,,,
+C:/Users/asehra/Group14_FinalProject_Part1/Group14_FinalProject_Part1.srcs/sources_1/imports/Downloads/Control1.vhd,1743735663,vhdl,,,,control,,,,,,,,
+C:/Users/asehra/Group14_FinalProject_Part1/Group14_FinalProject_Part1.srcs/sources_1/imports/Downloads/MUX312.vhd,1743735663,vhdl,,,,mux31,,,,,,,,
+C:/Users/asehra/Group14_FinalProject_Part1/Group14_FinalProject_Part1.srcs/sources_1/imports/Downloads/Memory.vhd,1743735663,vhdl2008,,,,memory,,,,,,,,
+C:/Users/asehra/Group14_FinalProject_Part1/Group14_FinalProject_Part1.srcs/sources_1/imports/Downloads/PC_REG.vhd,1743735663,vhdl2008,,,,pc_reg,,,,,,,,
+C:/Users/asehra/Group14_FinalProject_Part1/Group14_FinalProject_Part1.srcs/sources_1/imports/Downloads/Registers2.vhd,1743735663,vhdl,,,,registers,,,,,,,,
+C:/Users/asehra/Group14_FinalProject_Part1/Group14_FinalProject_Part1.srcs/sources_1/imports/Downloads/Signextend1.vhd,1743735663,vhdl,,,,signextend,,,,,,,,
+C:/Users/asehra/Group14_FinalProject_Part1/Group14_FinalProject_Part1.srcs/sources_1/imports/Downloads/and_gate2.vhd,1743735663,vhdl,,,,and_gate,,,,,,,,
+C:/Users/asehra/Group14_FinalProject_Part1/Group14_FinalProject_Part1.srcs/sources_1/imports/Downloads/full_adder2.vhd,1743735663,vhdl,,,,full_adder,,,,,,,,
+C:/Users/asehra/Group14_FinalProject_Part1/Group14_FinalProject_Part1.srcs/sources_1/imports/Downloads/mux2_11.vhd,1743735663,vhdl,,,,mux2_1,,,,,,,,
+C:/Users/asehra/Group14_FinalProject_Part1/Group14_FinalProject_Part1.srcs/sources_1/imports/Downloads/mux3_11.vhd,1743735663,vhdl2008,,,,mux3_1,,,,,,,,
+C:/Users/asehra/Group14_FinalProject_Part1/Group14_FinalProject_Part1.srcs/sources_1/imports/Downloads/or_gate2.vhd,1743735663,vhdl,,,,or_gate,,,,,,,,
+C:/Users/asehra/Group14_FinalProject_Part1/Group14_FinalProject_Part1.srcs/sources_1/new/JUMP.vhd,1743736188,vhdl,,,,jump,,,,,,,,

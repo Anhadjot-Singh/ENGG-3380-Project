@@ -1,0 +1,7 @@
+Vivado Simulator 2016.3
+Time resolution is 1 ps
+ERROR: Index 34 out of bound 0 to 33
+Time: 1500 ns  Iteration: 2  Process: /CPU_3380_Test/uut/CPU_Instr_MEM/read_p
+  File: C:/Users/asehra/Group14_FinalProject_Part1/Group14_FinalProject_Part1.srcs/sources_1/imports/Downloads/Memory.vhd
+
+HDL Line: C:/Users/asehra/Group14_FinalProject_Part1/Group14_FinalProject_Part1.srcs/sources_1/imports/Downloads/Memory.vhd:94
